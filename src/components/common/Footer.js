@@ -54,7 +54,7 @@ const Footer = () => {
             >
               <Mail size={18} /> yashwanthraghu1997@gmail.com
             </a>
-            <p className='text-[#075fe4] text-sm'>(+91-) 756 959 2006</p>
+            <p className='text-[#075fe4] text-sm'>(+91-) 7569592006</p>
           </div>
 
           {/* === Navigation Links === */}
