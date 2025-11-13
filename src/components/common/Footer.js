@@ -109,11 +109,9 @@ const Footer = () => {
       {/* === Footer Bottom === */}
       <div className="w-full border-t border-gray-700">
         <div className="max-w-[1336px] mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col sm:flex-row justify-between items-center py-5 gap-3 text-sm text-gray-400">
+          <div className="flex flex-col justify-between items-center py-5 gap-3 text-sm text-gray-400">
             <p>© {new Date().getFullYear()} Yashwanth. All Rights Reserved.</p>
-            <p>
-              Designed by <span className="text-white font-medium">Nixar</span>. Powered by Next.js.
-            </p>
+           
           </div>
         </div>
       </div>
