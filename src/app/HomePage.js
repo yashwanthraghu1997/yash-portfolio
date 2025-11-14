@@ -83,7 +83,7 @@ export default function HomePage() {
 
   const companies = [
     { name: "WeMakeScholars", logo: "/images/wms.jpeg",url: "https://wemakescholars.com/" },
-    { name: "Synergym", logo: "/images/synergym.png", url: "https//synergym.es/" },
+    { name: "Synergym", logo: "/images/synergym.png", url: "https://synergym.es/" },
     { name: "Auro", logo: "/images/auro.png", url: "https://aurofit.co/" },
   ];
 
