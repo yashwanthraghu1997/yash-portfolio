@@ -14,6 +14,22 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Yashwanth Raghu",
   description: "I’m a passionate software engineer who began my journey in manual testing and gradually transitioned into automation, full-stack, and app development. With hands-on experience across various technologies, I’ve developed a strong understanding of the complete software development lifecycle. Now, as a team leader, I focus on transforming ideas into impactful digital solutions through collaboration, innovation, and strategic execution. I’m driven by the goal of crafting seamless user experiences that blend code, creativity, and purpose.",
+    openGraph: {
+    title: "Yashwanth Raghu - Portfolio",
+    description: "Portfolio of Yashwanth Raghu",
+    url: "https://yashwanthraghu.vercel.app/",
+    siteName: "Yash Portfolio",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Yashwanth Portfolio Preview",
+      },
+    ],
+    type: "website",
+  },
+
 };
 
 export default function RootLayout({ children }) {
